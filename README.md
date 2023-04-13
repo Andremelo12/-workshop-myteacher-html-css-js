@@ -1,1 +1,1 @@
-#  Criação de site de catálogo de professores
+#  Criação de site de catálogo de professores.
